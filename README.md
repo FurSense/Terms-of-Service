@@ -1,7 +1,7 @@
 # FurSense — Terms of Service
 
 **Effective Date:** 1 February 2026  
-**Last Updated:** 4 March 2026  
+**Last Updated:** 19 March 2026  
 **App:** FurSense — AI Dog Health Companion  
 **Platform:** iOS (Apple App Store)
 
@@ -128,7 +128,7 @@ FurSense uses artificial intelligence to generate health insights, breed informa
 - AI content may contain errors or inaccuracies
 - AI insights are not a substitute for professional veterinary advice
 - FurSense does not guarantee the accuracy of AI-generated content
-- AI models are provided by third parties (Google Gemini, AWS, etc.)
+- AI analysis is powered by third-party AI service providers
 - You use AI-generated content at your own risk
 
 ---
@@ -177,17 +177,14 @@ You must not use FurSense to:
 
 ## 10. Third-Party Services
 
-FurSense integrates with third-party services including:
+FurSense integrates with third-party services to provide its features. These services have their own Terms of Service and Privacy Policies. We are not responsible for third-party service availability, accuracy, or practices.
 
-| Service | Purpose |
-|---------|---------|
+| Service Category | Purpose |
+|-----------------|---------|
 | Apple (Sign in, App Store, iCloud) | Authentication, payments, sync |
-| Google Gemini AI | AI analysis |
-| Google Cloud Vision | Image recognition |
-| AWS Rekognition | Image analysis |
-| Google Places | Nearby vet finder |
-
-These services have their own Terms of Service and Privacy Policies. We are not responsible for third-party service availability, accuracy, or practices.
+| Third-party AI service providers | AI-powered photo analysis, health insights, bark analysis |
+| Mapping & location services | Nearby vet finder |
+| Crash reporting services | App stability and error monitoring |
 
 ---
 
@@ -276,4 +273,6 @@ We aim to respond within **5 business days**.
 ---
 
 *© 2026 FurSense. All rights reserved.*  
-*These Terms of Service were last updated on 4 March 2026.*
+*These Terms of Service were last updated on 19 March 2026.*
+
+> Hosted at: https://github.com/FurSense/Terms-of-Service
