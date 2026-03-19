@@ -184,6 +184,7 @@ FurSense integrates with third-party services to provide its features. These ser
 | Apple (Sign in, App Store, iCloud) | Authentication, payments, sync |
 | Third-party AI service providers | AI-powered photo analysis, health insights, bark analysis |
 | Mapping & location services | Nearby vet finder |
+| Weather data services | Local weather conditions for the pet weather card (your coordinates are sent once to fetch weather — not stored) |
 | Crash reporting services | App stability and error monitoring |
 
 ---
